@@ -1,0 +1,53 @@
+
+h1,h2,h4
+{
+font-style:oblique;
+color: yellowgreen;
+background-color: peachpuff;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+pre
+{
+    background-color: rgb(158, 240, 198);
+
+    
+}
+#select
+{
+    color: #0e4fd2;
+    background-color: rgb(134, 203, 224);
+}
+.pg1
+ {
+    background-color: rgb(214, 162, 179);
+    color: rgb(203, 21, 127);
+ }
+ .pg2
+ {
+color: rgb(145, 34, 236);
+background-color: rgb(193, 136, 193);
+ }
+ .pg3
+ {
+    color: rgb(235, 13, 13);
+    background-color:rgb(250, 138, 198);
+ }
+ .sel1, .sel3, .sel5
+ {
+    background-color: rgb(221, 165, 108);
+    color: rgb(117, 51, 4);
+    
+}
+.sel2, .sel4
+{
+    background-color: rgb(202, 134, 46);
+    color:rgb(94, 61, 18);
+   
+}
+ul
+{
+    background-color: rgb(146, 195, 207);
+    color: blue;
+}
+
